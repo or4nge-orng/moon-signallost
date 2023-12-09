@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30f312d9f3f24cdb944c1453a1accefb, type: 3}
+  m_Name: VHS
+  m_EditorClassIdentifier: 
+  data:
+    pixelationAmount: -1
+    maxColorChannels:
+      red: 0
+      green: 0
+      blue: 0
+      greyScale: 0.552
+    dithering4: 0
+    dithering8: 0.297
+    vignette: 0.343
+    innerCurve: 1.39
+    monitorCurve: 0.05
+    monitorInnerSize:
+      width: 0
+      height: 0
+    monitorOutterSize:
+      width: 0.119
+      height: 0.116
+    zoom: 0.935
+    monitorRoundness: 0.2
+    monitorTexture: {fileID: 0}
+    monitorColor: {r: 0.23910141, g: 1, b: 0, a: 1}
+    innerMonitorDarkness: 0.703
+    innerMonitorShine: 0.151
+    colorScans:
+      greenChannelMultiplier: 0.1
+      redBlueChannelMultiplier: 0.15
+      sizeMultiplier: 2
+    innerMonitorShineRadius: -0.087
+    innerMonitorShineCurve: 10
+  validationId: 818478be-65fa-4fae-825f-22e38ec583b6
